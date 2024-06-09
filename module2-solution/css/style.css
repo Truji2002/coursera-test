@@ -23,12 +23,14 @@ h1 {
     right:5.5%;
   }
 
+
   #chicken h2 {
     background-color: #F89C7C;
   }
 
   #beef  h2 {
     background-color: #DE6135;
+    color: white;
   }
   #sushi h2 {
     background-color: tan;
@@ -36,7 +38,7 @@ h1 {
 
   p {
     border: 4px solid black;
-    background-color: gray;
+    background-color: #BAB4B1;
     width: 90%;
     height: auto;
     margin-right: auto;
