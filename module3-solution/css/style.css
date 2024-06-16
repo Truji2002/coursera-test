@@ -1,0 +1,54 @@
+#header-nav {
+  background-color: #BAB4B1;
+  border-radius: 0;
+  border: 0;
+ 
+}
+ 
+ 
+body {
+  background-color: rgb(244, 244, 244);
+}
+#header-nav .navbar-brand{
+  margin-left: 20px;
+}
+#nav-header {
+  background-color: rgb(244, 244, 244);
+}
+ 
+#nav-botton {
+  background-color: rgb(246, 242, 241);
+}
+ 
+.collapse.navbar-collapse .navbar-nav .nav-item {
+  background-color: rgb(244, 244, 244);
+  width: 100%;
+  border: 1px solid black;
+}
+ 
+.collapse.navbar-collapse .navbar-nav .nav-item:hover {
+  background-color: rgb(244, 244, 244);
+  border: 2px solid rgb(192, 107, 50);
+}
+ 
+h2 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+ 
+.col {
+  margin: 15px 20px; 
+  padding: 10px 20px 5px 20px;
+  background-color: #BAB4B1;
+  min-height: 300px; 
+  text-align: center;
+}
+ 
+@media (max-width: 575px) {
+  .col {
+    margin-left: 20px;  
+    margin-right: 20px; 
+  }
+ 
+}
